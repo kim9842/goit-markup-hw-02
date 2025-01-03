@@ -1,9 +1,23 @@
-body{
+body {
     font-family:'roboto', sans-serif;
     font-weight: regular;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 2%;
     color: #434455;
 }
 
+.title-bckgr {
+color:#2E2F42;
+}
+
+.page-title{
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 1.07;
+    color: #FFFFFF;
+}
+.order-button {
+
+}
