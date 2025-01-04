@@ -7,17 +7,35 @@ body {
     color: #434455;
 }
 
+.page-header{
+    font-weight:medium;
+    font-size:16px;
+    letter-spacing:2%;
+    line-height:1.5;
+}
+
 .title-bckgr {
-color:#2E2F42;
+background-color:#2E2F42;
+color: #FFFFFF;
 }
 
 .page-title{
     font-weight: bold;
     font-size: 56px;
+    text-align: center;
     letter-spacing: 2%;
     line-height: 1.07;
     color: #FFFFFF;
 }
-.order-button {
+.order-button  {
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
 
+}
+.order-button:hover {
+background-color: #9747FF;
 }
