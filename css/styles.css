@@ -13,6 +13,17 @@ body {
     letter-spacing:2%;
     line-height:1.5;
 }
+.page-logo{
+    font-family: 'raleway' sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.16x;
+    letter-spacing: 3%;
+    color: #2E2F42;
+}
+.logocolor{
+    color: #4D5AE5;
+}
 
 .title-bckgr {
 background-color:#2E2F42;
