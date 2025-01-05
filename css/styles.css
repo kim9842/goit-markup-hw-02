@@ -33,4 +33,82 @@ body{
 .contact .contact-link:hover{
     color: #404BBF;
 }
-
+.title-back{
+    background-color:#2E2F42;
+}
+.title{
+    font-weight: 700;
+    font-size:56px;
+    line-height: 1.07;
+    letter-spacing: 2%;
+    color: #FFFFFF;
+}
+.order-button{
+    cursor: pointer;
+    font-weight: 500;
+    letter-spacing: 4%;
+    line-height: 1.5;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+.order-button:hover{
+    background-color: #404BBF;
+}
+.aboutus{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2%;
+    line-height: 1.2;
+    color: #2E2F42;
+}
+.our-team{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.team{
+    background-color:#F4F4FD;
+}
+.team-card{
+    background-color:#FFFFFF;
+}
+.team-name{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2%;
+    line-height: 1.2;
+    color: #2E2F42;   
+}
+.portfolio{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.project-type{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2%;
+    line-height: 1.2;
+    color: #2E2F42;     
+}
+.footer{
+    background-color: #2E2F42;
+}
+.footer-logo{
+    font-family: 'Raleway'sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 3%;
+    color: #F4F4FD;
+}
+.footer-logo-color{
+    color: #4D5AE5;
+}
+.footer-text{
+    color: #F4F4FD;
+}
