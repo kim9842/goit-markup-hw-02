@@ -34,13 +34,14 @@ body{
     color: #404BBF;
 }
 .contact{
-    letter-spacing: 0.02em;
     font-style: normal;
+}
+.cont-list{
     color: #434455;
 }
 .contact.link{
 letter-spacing: 0.02em;
-color: #434455;         
+color:#434455;         
 }
 .contact .contact-link:hover{
     color: #404BBF;
