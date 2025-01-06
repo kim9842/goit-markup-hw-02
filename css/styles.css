@@ -19,10 +19,10 @@ body{
 .logo-color{
     color: #2e2f42;
 }
-.page-nav .link{
+.page-nav{
     font-weight: 500;
     letter-spacing: 0.02em;
-    color:#434455;
+    color:#2e2f42;
 }
 .page-nav .link:hover{
     color:#404BBF;
