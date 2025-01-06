@@ -35,13 +35,15 @@ body{
 }
 .contact{
     font-style: normal;
+    letter-spacing: 0.02em;
 }
 .cont-list{
     color: #434455;
+    letter-spacing: 0.02em;
 }
 .contact.link{
-letter-spacing: 0.02em;
-color:#434455;         
+    letter-spacing: 0.02em;
+    color:#434455;         
 }
 .contact .contact-link:hover{
     color: #404BBF;
