@@ -24,6 +24,9 @@ body{
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
+.link{
+    color: #2E2F42;
+}
 .page-nav .link:hover{
     color:#404BBF;
 }
@@ -35,7 +38,7 @@ body{
     font-style: normal;
     color: #434455;
 }
-.contact.link{
+.contact .contact.link{
 letter-spacing: 0.02em;
 color: #434455;         
 }
@@ -138,6 +141,9 @@ color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.2;
     color: #2E2F42;     
+}
+.categor{
+    letter-spacing: 0.02em;
 }
 
 
