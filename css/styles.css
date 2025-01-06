@@ -158,8 +158,11 @@ color: #434455;
     line-height: 1.2;
     color: #2E2F42;     
 }
-.proj-descr{
-    letter-spacing: 0.02em;;
+.catefor{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 .footer{
     background-color: #2E2F42;
