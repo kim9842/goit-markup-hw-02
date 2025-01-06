@@ -35,22 +35,17 @@ body{
 }
 .contact{
     font-style: normal;
-    letter-spacing: 0.02em;
 }
-.cont-list{
+.contact-link{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
     color: #434455;
-    letter-spacing: 0.02em;
 }
-.contact.link{
-    letter-spacing: 0.02em;
-    color:#434455;         
-}
-.contact .contact-link:hover{
+.contact .contact-link:hover, .contact .contact-link:focus{
     color: #404BBF;
 }
-.contact .contact-link:focus{
-    color: #404BBF;
-}
+
 
 /*1 Section*/
 
